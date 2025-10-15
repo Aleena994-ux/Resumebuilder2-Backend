@@ -1,0 +1,66 @@
+{
+  "all-resumes": [
+    {
+      "id": "1ad6",
+      "professionalData": {
+        "name": "Alina S",
+        "jobTitle": "Developer",
+        "location": "Kakkanad, Kerala ",
+        "email": "aleena123@gmail.com",
+        "phone": "9087899876",
+        "github": "google.com",
+        "linkedin": "google.com",
+        "portfolio": "google.com"
+      },
+      "educationData": {
+        "course": "bca",
+        "college": "mes",
+        "university": "calicut",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "job",
+        "company": "wipro",
+        "jobLocation": "Kochi",
+        "duration": "1 year"
+      },
+      "skill": [
+        "React",
+        "JS"
+      ],
+      "summary": "Passionate frontend developer."
+    },
+    {
+      "id": "8c22",
+      "professionalData": {
+        "name": "Sruthi VR",
+        "jobTitle": "Mernstack developer",
+        "location": "Kochi",
+        "email": "shruthi23@gmail.com",
+        "phone": "9087899444",
+        "github": "google.com",
+        "linkedin": "google.com",
+        "portfolio": "google.com"
+      },
+      "educationData": {
+        "course": "bca",
+        "college": "mes",
+        "university": "calicut",
+        "year": "2000"
+      },
+      "experience": {
+        "jobRole": "job",
+        "company": "wipro",
+        "jobLocation": "Kochi",
+        "duration": "2 year"
+      },
+      "skill": [
+        "React",
+        "Angular",
+        "MongoDb",
+        "NodeJS"
+      ],
+      "summary": "Fullstack developer with a passion for webdevelopment."
+    }
+  ]
+}
